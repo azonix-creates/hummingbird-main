@@ -10,7 +10,7 @@
 	<p class="spacer"/>
 	<p>We also provide technical specifications of our server, if you wish to replicate our service.</p>
 	<p class="spacer"/>
-	<p>The server operates out of a <span class="bold">New York</span> datacentre. We currently have an Intel i5-10400K CPU, with 64GB of random access memory. We store all data on RAID-1 SSDs, which means your data is mirrored onto a second SSD, in the case of a data loss event. The server runs Ubuntu 22 LTS.</p>
+	<p>The server operates out of a <span class="bold">New York</span> datacentre. The server currently operates on an AMD Epyc Gold CPU, with 32GB of random access memory. We store all data on RAID-1 SSDs, which means your data is mirrored onto a second SSD, in the case of a data loss event. The server runs Ubuntu 22 LTS.</p>
 	<p class="spacer"/>
 	<p>We hope that this transparency statement informs you and allows you to make the best decision on your choice of image host.</p>
 </div>

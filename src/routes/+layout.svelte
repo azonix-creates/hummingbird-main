@@ -7,6 +7,12 @@
   }
 </script>
 
+<svelte:head>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta content="hummingbird.host" property="og:title" />
+  <meta content="#FFDE59" data-react-helmet="true" name="theme-color" />
+</svelte:head>
+
 <div class="app">
   <title>hummingbird</title>
   <link rel="stylesheet" href="https://use.typekit.net/ijj6dcp.css" />
